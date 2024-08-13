@@ -1,0 +1,20 @@
+h1{
+    color :rgb(56, 169, 12);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 50px;
+}
+.container{
+background-color: rgb(249, 251, 251);
+    box-shadow:rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+.container p{
+    color:blue;
+    font-size: 15px;
+    font-weight: bold;
+}
+.container a{
+    color:red;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+}
